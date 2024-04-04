@@ -1,0 +1,42 @@
+{
+  "name": "whiskers",
+  "displayName": "Whiskers",
+  "description": "Whiskers theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Whiskers Panther - Banana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/whiskers-panther-banana.json"
+      },
+      {
+        "label": "Whiskers Tiger - Banana",
+        "uiTheme": "vs",
+        "path": "./themes/whiskers-tiger-banana.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "lighttigerXIV"
+  },
+  "icon": "images/logo.png",
+  "publisher": "lighttigerXIV",
+  "license": "MIT",
+  "keywords": ["whiskers", "dark", "light", "cat"],
+  "pricing": "Free",
+  "bugs": {
+    "url": "https://github.com/Whiskers-Color-Scheme/vscode/issues",
+    "email": "lighttigerxiv@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Whiskers-Color-Scheme/vscode.git"
+  }
+}

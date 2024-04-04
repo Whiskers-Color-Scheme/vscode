@@ -1,0 +1,17 @@
+Panther
+
+    "editorBracketHighlight.foreground1": "#ff8c7c",
+    "editorBracketHighlight.foreground2": "#ffb26c",
+    "editorBracketHighlight.foreground3": "#ffe072",
+    "editorBracketHighlight.foreground4": "#ffaaf5",
+    "editorBracketHighlight.foreground5": "#a5ceff",
+    "editorBracketHighlight.foreground6": "#b1e380",
+
+Tiger
+
+    "editorBracketHighlight.foreground1": "#B43A2A",
+    "editorBracketHighlight.foreground2": "#C15D01",
+    "editorBracketHighlight.foreground3": "#A87B0A",
+    "editorBracketHighlight.foreground4": "#7D0E70",
+    "editorBracketHighlight.foreground5": "#5284BE",
+    "editorBracketHighlight.foreground6": "#6A9534",
