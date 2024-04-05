@@ -1,16 +1,24 @@
-# whiskers README
+<div align="center">
 
-## Working with Markdown
+<img src="images/logo.webp" width="140">
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# Whiskers for VSCode
+</div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## TODO
+- Test with more languages. Tested languages: [Rust, Python, Typescript, Json]
+- Add other accent colors
+- Fix status bar colors
+- Script to build all the themes
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## About
+This theme is still in early stages so any help is appreciated. You can by either make an issue or push request languages that don't feel are correctly themed.  
 
-**Enjoy!**
+## Previews
+### 🐈‍⬛ Panther
+<img src="images/panther-preview.webp" width="500">
+
+### 🐅 Tiger
+<img src="images/tiger-preview.webp" width="500">
+
