@@ -9,7 +9,6 @@
 ## TODO
 - Test with more languages. Tested languages: [Rust, Python, Typescript, Json]
 - Add other accent colors
-- Fix status bar colors
 - Script to build all the themes
 
 ## About
