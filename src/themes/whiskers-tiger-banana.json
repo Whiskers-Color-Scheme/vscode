@@ -134,7 +134,8 @@
         "punctuation.brackets",
         "punctuation.separator.dictionary",
         "keyword.operator",
-        "punctuation.section.function"
+        "punctuation.section.function",
+        "source.toml"
       ],
       "settings": { "foreground": "#B43A2A" }
     },
