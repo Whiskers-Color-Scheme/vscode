@@ -7,7 +7,7 @@
 
 
 ## TODO
-- Test with more languages. Tested languages: [Rust, Python, Typescript, Json]
+- Test with more languages. Tested languages: [Rust, Python, Typescript, Json, TOML]
 - Add other accent colors
 - Script to build all the themes
 
